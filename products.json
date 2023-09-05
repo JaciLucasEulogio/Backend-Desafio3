@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "code": "1",
+    "title": "Mouse",
+    "description": "Un mouse de alta precisión",
+    "price": 120,
+    "thumbnail": "mouse.jpg",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "code": "2",
+    "title": "Teclado",
+    "description": "Un teclado mecánico",
+    "price": 200,
+    "thumbnail": "keyboard.jpg",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "code": "3",
+    "title": "Monitor",
+    "description": "Monitor de 24 pulgadas",
+    "price": 300,
+    "thumbnail": "monitor.jpg",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "code": "4",
+    "title": "Auriculares",
+    "description": "Auriculares con micrófono",
+    "price": 80,
+    "thumbnail": "headphones.jpg",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "code": "5",
+    "title": "Parlantes",
+    "description": "Parlantes 2.1",
+    "price": 200,
+    "thumbnail": "speakers.jpg",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "code": "6",
+    "title": "Impresora",
+    "description": "Impresora multifunción",
+    "price": 500,
+    "thumbnail": "printer.jpg",
+    "stock": 5
+  },
+  {
+    "id": 7,
+    "code": "7",
+    "title": "Disco SSD",
+    "description": "Disco SSD de 1TB",
+    "price": 400,
+    "thumbnail": "ssd.jpg",
+    "stock": 5
+  },
+  {
+    "id": 8,
+    "code": "8",
+    "title": "Memoria RAM",
+    "description": "Memoria RAM de 16GB",
+    "price": 300,
+    "thumbnail": "ram.jpg",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "code": "9",
+    "title": "Placa de video",
+    "description": "Placa de video de 8GB",
+    "price": 800,
+    "thumbnail": "gpu.jpg",
+    "stock": 5
+  },
+  {
+    "id": 10,
+    "code": "10",
+    "title": "Procesador",
+    "description": "Procesador de 8 núcleos",
+    "price": 1000,
+    "thumbnail": "cpu.jpg",
+    "stock": 5
+  }
+]
